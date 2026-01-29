@@ -37,9 +37,6 @@ git clone https://github.com/Manojnara14/Credit-Approval-System.git
 cd Credit-Approval-System  
 docker-compose up --build  
 
-The server will start at:  
-http://localhost:8000
-
 ---
 
 ## API Endpoints
@@ -54,7 +51,7 @@ GET /view-loans/<customer_id>
 
 ## Demo Video
 
-(Add your demo video link here)
+https://drive.google.com/file/d/1yTwNK-aHqoTkjc_YVk2DsE-mvaeBkoyz/view?usp=drive_link
 
 ---
 
