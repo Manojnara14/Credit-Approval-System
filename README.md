@@ -51,7 +51,7 @@ GET /view-loans/<customer_id>
 
 ## Demo Video
 
-https://drive.google.com/file/d/1yTwNK-aHqoTkjc_YVk2DsE-mvaeBkoyz/view?usp=drive_link
+https://drive.google.com/file/d/1-k-AVTCFWzfr3vkVMkX_KGQYZMLyXQV8/view?usp=drive_link
 
 ---
 
